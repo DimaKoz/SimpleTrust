@@ -3,7 +3,7 @@
 # SimpleTrust
 A simple library for trusting self signed domains.
 
-# Using SimpleTrust
+## Using SimpleTrust
 SimpleTrust can be obtained from JitPack. It's also possible to clone the repository and depend on the modules locally.
 
 ## Developer Guide
@@ -35,4 +35,4 @@ simpleTrust.load();
 ### 4. Profit!
 
 ## Information
-Google Play Store wont allow you to upload your application if you use `TrustManager` improperly. Make sure you wont add empty strings to your trusted domains array. Especially if you using the `CONTAIN_MODE` in your `SimpleTrust` object.
+Google Play Store wont allow you to upload your application if you use `TrustManager` improperly. Make sure you wont add empty strings to your trusted domains array. Especially if you are using the `CONTAIN_MODE` in your `SimpleTrust` object.
