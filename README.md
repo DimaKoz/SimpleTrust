@@ -37,5 +37,15 @@ simpleTrust.load();
 ## Information
 Google Play Store wont allow you to upload your application if you use `TrustManager` improperly. Make sure you wont add empty strings to your trusted domains array. Especially if you are using the `CONTAIN_MODE` in your `SimpleTrust` object.
 
+## Requirement
+```Gradle
+...
+defaultConfig {
+        minSdkVersion 16
+	...
+}
+...
+```
+
 ## For alternative usage
 You can find a more detailed guide [here](./Guide.md)
