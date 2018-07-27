@@ -8,7 +8,7 @@ SimpleTrust can be obtained from JitPack. It's also possible to clone the reposi
 
 ## Developer Guide
 
-### 1. Add jitpack to your root build.gradle
+### 1. Add JitPack to your root build.gradle
 ```Gradle
 	allprojects {
 		repositories {
