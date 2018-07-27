@@ -10,19 +10,19 @@ SimpleTrust can be obtained from JitPack. It's also possible to clone the reposi
 
 ### 1. Add jitpack to your root build.gradle
 ```Gradle
-allprojects {
+	allprojects {
 		repositories {
 			...
 			maven { url 'https://jitpack.io' }
 		}
-}
+	}
 ```
 
 ### 2. Add the dependency
 ```Gradle
-dependencies {
+	dependencies {
 	        implementation 'com.github.m-devs:SimpleTrust:1.0.0'
-}
+	}
 ```
 
 ### 3. Create the SimpleTrust object
