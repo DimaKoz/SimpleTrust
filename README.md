@@ -1,4 +1,4 @@
-[![](https://jitpack.io/v/m-devs/SimpleTrust.svg)](https://jitpack.io/#m-devs/SimpleTrust)
+[![](https://jitpack.io/v/m-devs/SimpleTrust.svg?style=flat-square)](https://jitpack.io/#m-devs/SimpleTrust)
 
 # SimpleTrust
 A simple library for trusting self signed domains.
