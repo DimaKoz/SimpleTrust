@@ -1,4 +1,6 @@
-[![](https://jitpack.io/v/m-devs/SimpleTrust.svg)](https://jitpack.io/#m-devs/SimpleTrust)
+
+[![Hackage-Deps](https://img.shields.io/hackage-deps/v/lens.svg?style=flat-square)](https://github.com/m-devs/SimpleTrust/blob/master/simpletrust/build.gradle)
+[![](https://jitpack.io/v/m-devs/SimpleTrust.svg?style=flat-square)](https://jitpack.io/#m-devs/SimpleTrust)
 
 # SimpleTrust
 A simple library for trusting self signed domains.

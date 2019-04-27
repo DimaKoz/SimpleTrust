@@ -72,7 +72,7 @@ simpleTrust.reset();
 ### Get the hostname verifier
 (can be null)
 ```Java
-HostnameVerifier = simpleTrust.getHostnameVerifier();
+HostnameVerifier hostnameVerifier = simpleTrust.getHostnameVerifier();
 ```
 
 ### Get the trust manager
